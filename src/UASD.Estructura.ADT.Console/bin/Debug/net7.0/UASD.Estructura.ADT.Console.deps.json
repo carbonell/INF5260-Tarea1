@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UASD.Estructura.ADT.Console/1.0.0": {
+        "dependencies": {
+          "UASD.Estructura.Dat": "1.0.0"
+        },
+        "runtime": {
+          "UASD.Estructura.ADT.Console.dll": {}
+        }
+      },
+      "UASD.Estructura.Dat/1.0.0": {
+        "runtime": {
+          "UASD.Estructura.Dat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UASD.Estructura.ADT.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UASD.Estructura.Dat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

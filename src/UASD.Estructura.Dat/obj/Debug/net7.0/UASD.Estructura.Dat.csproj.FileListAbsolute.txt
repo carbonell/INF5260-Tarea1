@@ -1,0 +1,12 @@
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\bin\Debug\net7.0\UASD.Estructura.Dat.deps.json
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\bin\Debug\net7.0\UASD.Estructura.Dat.dll
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\bin\Debug\net7.0\UASD.Estructura.Dat.pdb
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.csproj.AssemblyReference.cache
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.AssemblyInfoInputs.cache
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.AssemblyInfo.cs
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.csproj.CoreCompileInputs.cache
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.dll
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\refint\UASD.Estructura.Dat.dll
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\UASD.Estructura.Dat.pdb
+c:\Users\Lad\source\repos\CSharp\estructura-de-datos\Tarea1\src\UASD.Estructura.Dat\obj\Debug\net7.0\ref\UASD.Estructura.Dat.dll
